@@ -1,0 +1,24 @@
+// ======================================================================
+// Calendar Example http://hashandsalt.com | hello@hashandsalt.com
+// ======================================================================
+
+// Slate
+// ======================================================================
+
+@import 'slate-engine';
+
+// Components
+// ======================================================================
+
+// Global
+@import 'components/global/G-common';
+@import 'components/global/G-typography';
+
+// Partials
+@import 'components/partials/P-calendar';
+@import 'components/partials/P-sprite';
+@import 'components/partials/P-magnific';
+
+// Layouts
+@import 'components/layouts/L-index';
+@import 'components/layouts/L-events';

@@ -1,0 +1,28 @@
+// ======================================================================
+// Events
+// ======================================================================
+
+.event-list {
+  @include flank(
+  "left",
+  $flank-main-element,
+  $flank-flank-element,
+  $flank-main-column,
+  $flank-flank-column,
+  $flank-breakpoint,
+  $flank-column-bottom-spacing,
+  $gutter-width,
+  0%,
+  $center-containers,
+  $center-container-max-width );
+
+  .flank {
+    @include rem(padding, 48px 0 0 0);
+  }
+}
+
+.event-subnav {
+  @include rem(margin, 24px 0 24px 0);
+  padding: 0;
+  list-style: none;
+}

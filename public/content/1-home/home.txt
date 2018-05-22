@@ -1,0 +1,13 @@
+Title: Calendar Example
+
+----
+
+Text: 
+
+To get this to work, you need to setup an account on the Google Calendar api website and get credentials in JSON format. The event page will break until you do this. Basically to run this example locally you need to setup a local test domain, and set this on line 16 of `webpack.mix.js` before doing the following:
+
+1. `yarn install`
+2. `cd public && composer install`
+3.  Open `config.php` and set lines 27 - 29 with your Google Calendar information
+4. Make sure you credentials are all set in `public/eventcreds.json`. You can this info from your google API account. 
+3. `yarn start`

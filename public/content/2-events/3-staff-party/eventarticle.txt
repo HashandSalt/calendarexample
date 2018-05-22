@@ -1,0 +1,35 @@
+Title: Staff Party
+
+----
+
+Startdate: 2018-06-08
+
+----
+
+Enddate: 2018-06-08
+
+----
+
+Starttime: 16:00
+
+----
+
+Endtime: 23:00
+
+----
+
+Eventdetail: 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent faucibus magna metus, vitae tempus mi congue sit amet. Integer lacinia nisl sit amet ligula laoreet interdum. Sed sodales fringilla nisi, eu eleifend lorem dignissim sed. Nullam et finibus metus, vitae viverra quam. Suspendisse at ex ornare nulla pulvinar rutrum. Proin efficitur vestibulum velit at convallis. Nulla facilisi. Duis sem metus, volutpat nec nibh ac, viverra scelerisque eros. Nulla nec urna tempus, maximus orci ut, maximus metus. In accumsan leo et lectus tincidunt, eget condimentum nisi condimentum. Etiam eget feugiat quam. Cras convallis magna eget ex semper, vel egestas nunc ultricies. Vivamus euismod turpis maximus massa interdum, et mattis orci efficitur. Etiam vitae blandit ligula.
+
+Maecenas tristique, eros vitae vehicula eleifend, purus nunc fermentum nisi, vitae consectetur nunc nisl sed ante. Quisque at mi turpis. In vestibulum diam sed maximus iaculis. Quisque ut aliquet neque, in tempus dolor. Nullam lacinia metus nec justo lobortis molestie. Donec congue purus in eros eleifend tristique. Donec suscipit lobortis magna. Integer ut magna lorem. Ut tincidunt non tortor at ornare. Quisque mollis bibendum velit, et posuere sem aliquet non.
+
+Sed eu sem id erat facilisis molestie in in purus. Phasellus ex arcu, viverra id feugiat hendrerit, egestas eget ex. Nulla vel justo quis magna malesuada auctor. Etiam aliquam a eros pretium elementum. Nullam sollicitudin accumsan lacinia. Cras imperdiet diam a odio malesuada sollicitudin. Interdum et malesuada fames ac ante ipsum primis in faucibus. In mauris diam, gravida vel ante et, lacinia posuere libero. Ut id faucibus ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis et purus pellentesque, scelerisque nisl nec, ornare est.
+
+Praesent eleifend, metus vitae maximus cursus, sapien ante dictum est, sed euismod augue urna et metus. In hac habitasse platea dictumst. Mauris in lectus consectetur, suscipit nunc id, dictum odio. Nam condimentum, lorem eget egestas ultricies, purus nulla elementum mi, eu commodo neque erat sed enim. Fusce sit amet urna vitae metus tincidunt finibus. Curabitur at mollis velit, et vestibulum neque. Curabitur et ex non urna cursus semper.
+
+Nulla eleifend pellentesque dolor. Nam odio risus, sagittis sed volutpat a, aliquam vestibulum velit. Ut ornare libero maximus urna dapibus, quis euismod urna viverra. Curabitur tincidunt lobortis pretium. Ut aliquet, justo placerat ultricies aliquet, urna est luctus justo, eget venenatis quam purus nec purus. Sed nec lorem eget elit facilisis malesuada. Nam lobortis facilisis nibh sed molestie. Fusce posuere ultricies nulla nec posuere. Suspendisse potenti. Quisque id urna ut nibh elementum varius eget efficitur nisl. Praesent tempus felis nec ex ornare suscipit. Nullam feugiat nulla laoreet nibh interdum porta. Aenean lobortis ipsum in interdum cursus. Integer in massa a velit porttitor feugiat sed vitae risus. Donec at nisl sed tortor tincidunt tristique ac eget lacus.
+
+----
+
+Eventsummary: Maecenas tristique, eros vitae vehicula eleifend, purus nunc fermentum nisi, vitae consectetur nunc nisl sed ante. Quisque at mi turpis. In vestibulum diam sed maximus iaculis. Quisque ut aliquet neque, in tempus dolor. Nullam lacinia metus nec justo lobortis molestie. Donec congue purus in eros eleifend tristique. Donec suscipit lobortis magna. Integer ut magna lorem. Ut tincidunt non tortor at ornare. Quisque mollis bibendum velit, et posuere sem aliquet non.

@@ -1,0 +1,30 @@
+type: group
+fields:
+  startdate:
+    label: Event Start Date
+    type: date
+    format: MM/DD/YYYY
+    width: 1/4
+  enddate:
+    label: Event End Date
+    type: date
+    format: MM/DD/YYYY
+    width: 1/4
+  starttime:
+    label: Event Start Time
+    type: time
+    interval: 15
+    width: 1/4
+  endtime:
+    label: Event End Time
+    type: time
+    interval: 15
+    width: 1/4
+  eventDetail:
+    label: Event Detail
+    help: The full details of the event
+    type: textarea
+  eventSummary:
+    label: Event Summary
+    help: The summary of the event
+    type: textarea
